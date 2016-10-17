@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cc2a5d46cf7e54d44bf0379484d53477
+timeCreated: 1475459976
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - PipsPrefab: {fileID: 224000013318453940, guid: 8478f59ce50d00c4caa21120bc14e56d,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

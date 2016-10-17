@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 20a494e01bac60c4aad5e67cf8452f2c
+timeCreated: 1475459902
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - CursorPrefab: {fileID: 224000011551972526, guid: 750fb201a3cd0ad41949ac3e80676dd1,
+      type: 2}
+  - PagePrefab: {fileID: 224000010737969410, guid: 1c264eb41ab06044da669f9db34e156c,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
